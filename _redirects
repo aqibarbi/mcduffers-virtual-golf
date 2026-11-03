@@ -1,0 +1,4 @@
+# Old mcdufferschq.com URLs -> new pages (301 keeps any old links and rankings working)
+/about/faq                 /faq                    301
+/about/rules-guidelines    /waiver-safety-rules    301
+/index.html                /                       301
